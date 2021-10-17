@@ -1,4 +1,5 @@
 <h1>1527. Bad Roads (acm.timus.ru)</h1>
+<p>https://acm.timus.ru/problem.aspx?space=1&num=1527</p>
 <div id="problem_text"><div class="problem_par"><div class="problem_par_normal">In a country, there is a number of cities connected by unidirectional roads. Due to
 insufficient budget, some roads are covered with pot-holes, so certain
 cars cannot use certain roads. Thus each road has the height number
@@ -41,6 +42,7 @@ order is the same as in input.
 </pre></td></tr></tbody></table><div class="problem_source"><b>Problem Author: </b>Dmitry Gozman<br><b>Problem Source: </b>Dmitry Gozman Contest 1, Petrozavodsk training camp, January 2007<br></div></div>
 
 <h1>10937 - Blackbeard the Pirate (onlinejudge.org)</h1>
+<p>https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=21&page=show_problem&problem=1878</p>
 <p>Blackbeard the Pirate has stashed up to 10 treasures on a tropical
 island, and now he wishes to retrieve them. He is being chased by
 several authorities however, and so would like to retrieve his treasure as
