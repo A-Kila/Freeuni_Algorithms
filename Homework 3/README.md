@@ -1,4 +1,5 @@
 <h1>AIBOHP - Aibohphobia (spoj.com)</h1>
+<p>https://www.spoj.com/problems/AIBOHP/</p>
 <p>BuggyD suffers from AIBOHPHOBIA - the fear of Palindromes.  A palindrome is a string that reads the same forward and backward.</p>
 
 <p>To cure him of this fatal disease, doctors from all over the world discussed his fear and decided to expose him to large number of palindromes.  To do this, they decided to play a game with BuggyD.  The rules of the game are as follows:</p>
@@ -33,6 +34,7 @@ fft
 </pre>
 
 <h1>1303. Minimal Coverage (acm.timus.ru)</h1>
+<p>https://acm.timus.ru/problem.aspx?space=1&num=1303</p>
 <div id="problem_text"><div class="problem_par"><div class="problem_par_normal">Given set of line segments [L<sub>i</sub>, R<sub>i</sub>] with integer coordinates of their end points.
 Your task is to find the minimal subset of the given set which covers segment [0, M] completely (M is a positive integer).
 </div></div><h3 class="problem_subtitle">Input</h3><div class="problem_par"><div class="problem_par_normal">First line of the input contains an integer M (1&nbsp;≤&nbsp;M&nbsp;≤&nbsp;5000). Subsequent lines of input contain pairs of integers L<sub>i</sub> and R<sub>i</sub> (−50000 ≤ L<sub>i</sub> &lt; R<sub>i</sub> ≤ 50000). Each pair of coordinates is placed on separate line. Numbers in the pair are separated with space. Last line of input data contains a pair of zeroes. The set contains at least one and at most 99999 segments.
