@@ -1,4 +1,5 @@
 <h1>CLFLARR - COLORFUL ARRAY (spoj.com)</h1>
+<p>https://www.spoj.com/problems/CLFLARR/</p>
 <p>You have been given an array of <strong>n</strong> unpainted elements. By unpainted, we mean that each element initially has a value of <strong>0</strong>. You have to process <strong>q</strong> queries of the form <strong>l r c</strong>, in which you paint all the elements of the array from index <strong>l</strong> to index <strong>r</strong> with color <strong>c</strong>. Assume that, each new color currently being applied to an element overrides its previous color. Output the color of each element after all the queries have been processed.</p>
 <p><strong>Note</strong>: The problem is guaranteed to be solved using C or C++ programming language.</p>
 <h3>Input</h3>
@@ -42,6 +43,7 @@
 14</pre>
 
 <h1>QUERYIT - SLIS (spoj.com)</h1>
+<p>https://www.spoj.com/problems/QUERYIT/</p>
 <p>Rachit, Sandeep,Yogesh,Vikram and Shubham are very good friends. They participated in a contest MNNIT INSOMNIA as a team but there was a problem which was not solved by any of the teams .So they were desperate to solve that problem.After contest they asked you for your help to solve the problem.Help them to solve the problem.The problem description is as follows:</p>
 <p>There is an array&nbsp;of length n consisting of only 0 and 1 as elements.You have to answer q queries.There are two type of queries&nbsp;</p>
 <p>Type 0: There is l and r .You have to change each 0 to 1 and each 1 to 0 from l to r (both inclusive).</p>
